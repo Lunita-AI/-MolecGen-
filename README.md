@@ -1,8 +1,8 @@
-# ⚗️MolecGen ⚗️
+# *[MolecGen]:
 This code performs several key functions in the context of using a kind of Artificial Intelligence named Generative Adversarial Network (GAN) for the possibility to generate "new" chemical polymer sequences.
 ---
 <br>
-***(> Please, consider that for this Machine Learning system "new" may mean "unseen" examples in its training data)!!!***
+⚗️ (> Please, consider that for this Machine Learning system "new" may mean "unseen" examples in its training data)!!!⚗️
 <br>
 <br>
 
